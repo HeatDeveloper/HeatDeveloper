@@ -1,14 +1,14 @@
 --------------------------------------------
-TITLE: HeatHub 
-Creator: heatdev
-Discord Name: heatdev_
-Version: Version 1.
-UI: Orion Library
-Skidded: No.
-Contains 3rd Party Scripts: Yes
+TITLE: HeatHub,
+Creator: heatdev,
+Discord Name: heatdev_,
+Version: Version 1,
+UI: Orion Library,
+Skidded: No,
+Contains 3rd Party Scripts: Yes,
 --------------------------------------------
-Looking For Developers: Yes
-Looking For Contributers: Yes
+Looking For Developers: Yes,
+Looking For Contributers: Yes,
 --------------------------------------------
 --[HeatHub V1]
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
